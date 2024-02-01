@@ -1,0 +1,17 @@
+D:\_DPK_A\Diskon\Diskon\bin\Debug\net6.0-windows\Diskon.exe
+D:\_DPK_A\Diskon\Diskon\bin\Debug\net6.0-windows\Diskon.deps.json
+D:\_DPK_A\Diskon\Diskon\bin\Debug\net6.0-windows\Diskon.runtimeconfig.json
+D:\_DPK_A\Diskon\Diskon\bin\Debug\net6.0-windows\Diskon.dll
+D:\_DPK_A\Diskon\Diskon\bin\Debug\net6.0-windows\Diskon.pdb
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.csproj.AssemblyReference.cache
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.Form1.resources
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.csproj.GenerateResource.cache
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.AssemblyInfoInputs.cache
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.AssemblyInfo.cs
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.csproj.CoreCompileInputs.cache
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.dll
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\refint\Diskon.dll
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.pdb
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\Diskon.genruntimeconfig.cache
+D:\_DPK_A\Diskon\Diskon\obj\Debug\net6.0-windows\ref\Diskon.dll

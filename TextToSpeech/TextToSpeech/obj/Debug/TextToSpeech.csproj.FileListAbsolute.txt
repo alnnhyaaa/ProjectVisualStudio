@@ -1,0 +1,11 @@
+D:\_DPK_A\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+D:\_DPK_A\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+D:\_DPK_A\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+D:\_DPK_A\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb

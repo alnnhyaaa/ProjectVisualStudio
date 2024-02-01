@@ -1,0 +1,11 @@
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\bin\Debug\ParkirKendaraan.exe.config
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\bin\Debug\ParkirKendaraan.exe
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\bin\Debug\ParkirKendaraan.pdb
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.csproj.AssemblyReference.cache
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.csproj.SuggestedBindingRedirects.cache
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.Form1.resources
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.Properties.Resources.resources
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.csproj.GenerateResource.cache
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.csproj.CoreCompileInputs.cache
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.exe
+D:\_DPK_A\ParkirKendaraan\ParkirKendaraan\obj\Debug\ParkirKendaraan.pdb
